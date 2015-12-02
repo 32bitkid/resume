@@ -1,0 +1,319 @@
+name: James Holmes
+
+summary: |
+  I am a *full-stack* programmer.
+
+  I craft compelling interactions between people and machines and bring a diverse background of
+  technologies, experiences and passions. I want to help create the tools and applications that will
+  empower the next generation to work, play, communicate, and&mdash;most importantly&mdash;*build*.
+
+  If you share my love for programming&mdash;whether a fellow developer, a potential
+  employer or client, or just someone who wants to learn&mdash;I would love to hear from you!
+
+links:
+  email:         mailto:jh@refactorman.com
+  tel:           tel:+1-678-313-0813
+  blog:          http://refactorman.com
+  github:        https://github.com/32bitkid
+  codepen:       http://codepen.io/32bitkid
+  stackoverflow: http://stackoverflow.com/users/373378
+
+technicalExperience:
+  - &ActionScript
+    name: ActionScript
+    experience: 4
+    url:  http://www.adobe.com/devnet/actionscript.html
+  - &AngularJs
+    name: AngularJs
+    url:  https://angularjs.org/
+    experience: 3
+  - &ASPNet
+    name: ASPNet
+    url:  http://www.asp.net/
+    experience: 2
+  - &BackboneJs
+    name: Backbone.js
+    url: http://backbonejs.org/
+    expereience: 4
+  - &BaconJs
+    name: Bacon.js
+    url:  https://baconjs.github.io/
+    experience: 3
+  - &Bootstrap
+    name: Bootstrap
+    url:  http://getbootstrap.com/javascript/
+    experience: 4
+  - &CoffeeScript
+    name: CoffeeScript
+    url:  http://coffeescript.org/
+    experience: 3
+  - &CSharp
+    name: "C#"
+    url:  https://msdn.microsoft.com/en-us/library/ms228593.aspx
+    experience: 3
+  - &CSS
+    name: CSS
+    url:  http://www.w3.org/Style/CSS/specs.en.html
+    experience: 5
+  - &Cucumber
+    name: Cucumber
+    url:  https://cucumber.io/
+    experience: 3
+  - &DotNetFramework
+    name: .Net Framework
+    url:  https://www.microsoft.com/net
+    experience: 3
+  - &Express
+    name: Express
+    url:  http://expressjs.com/
+    experience: 3
+  - &Flex
+    name: Flex
+    url:  http://www.adobe.com/products/flex.html
+    experience: 3
+  - &Golang
+    name: Go
+    url:  https://golang.org/
+    experience: 3
+  - &IIS
+    name: IIS
+    url:  https://www.iis.net/
+    experience: 3
+  - &Java8
+    name: Java 8
+    url:  https://docs.oracle.com/javase/specs/
+    experience: 2
+  - &JavaScript
+    name: JavaScript
+    url:  http://www.ecma-international.org/ecma-262/6.0/index.html
+    experience: 5
+  - &jQuery
+    name: jQuery
+    url:  https://jquery.com/
+    experience: 4
+  - &Knockout
+    name: Knockout
+    url:  http://knockoutjs.com/
+    experience: 4
+  - &Leaflet
+    name: Leaflet
+    url:  http://leafletjs.com/
+    experience: 3
+  - &Less
+    name: Less
+    url:  http://lesscss.org/
+    experience: 5
+  - &MSSQLServer
+    name: MS SQL Server
+    url:  https://www.microsoft.com/en-us/server-cloud/products/sql-server/features.aspx
+    experience: 3
+  - &MySQL
+    name: MySQL
+    url:  https://www.mysql.com/
+    experience: 2
+  - &NodeJs
+    name: Node.js
+    url:  https://nodejs.org/en/
+    experience: 4
+  - &OrientDB
+    name: OrientDB
+    url:  http://orientdb.com/orientdb/
+    experience: 2
+  - &Postgres
+    name: Postgres
+    url:  http://www.postgresql.org/
+    experience: 3
+  - &React
+    name: React
+    url:  https://facebook.github.io/react/
+    experience: 4
+  - &Redis
+    name: Redis
+    url:  http://redis.io/
+    experience: 2
+  - &Rails
+    name: Ruby on Rails
+    url:  http://rubyonrails.org/
+    experience: 2
+  - &Ruby
+    name: Ruby
+    url:  https://www.ruby-lang.org/en/
+    experience: 4
+  - &Spring
+    name: Spring
+    url:  http://projects.spring.io/spring-framework/
+    experience: 1
+  - &WebDriver
+    name: WebDriver
+    url:  http://www.seleniumhq.org/projects/webdriver/
+    experience: 3
+
+workExperience:
+
+  - company: Leads To Conversations
+    url:     http://leadstoconversations.com
+    title:   Desingineer
+    from:    '2015-05'
+    to:      '2015-11'
+    technologies:
+      - *NodeJs
+      - *Express
+      - *Less
+      - *JavaScript
+      - *Knockout
+      - *BaconJs
+      - *React
+      - *Postgres
+      - *Redis
+    description: |
+      Leads To Conversations is a sales acceleration app start-up, founded by a pair previous
+      co-workers. I joined the team as the second developer&mdash;third employee&mdash;as a UI
+      generalist. My skill-set directly complements the skills of the technical founder; we worked
+      closely to define, architect and build the pilot system. Being a small cross-functional team,
+      responsibilities ranged from full-stack pair development, to database design,
+      to devops, to graphic/web design, to marketing, to motion graphics and more!
+
+  - company: Skyward.io
+    url:     http://skyward.io/
+    title:   Lead Front-End Developer
+    from:    '2014-08'
+    to:      '2015-04'
+    technologies:
+      - *JavaScript
+      - *Bootstrap
+      - *AngularJs
+      - *Less
+      - *Leaflet
+      - *Java8
+      - *Spring
+      - *OrientDB
+    description: |
+      As the lead front-end developer, I worked closely with the lead designer to realize and
+      iterate on the UI/UX of the application: a UAV flight planning, logging, and compliance SAAS.
+      I took a deep-dive into Angular.js and established the initial testing and build pipeline. Helped
+      mentor junior developers within the front-end stack, and helped expose and transition
+      the team to more functional programming paradigms available in Java 8.
+
+  - company: VersionOne
+    url:     https://www.versionone.com/
+    title:   Team Lead
+    from:    '2012-02'
+    to:      '2014-08'
+    technologies:
+      - *JavaScript
+      - *Less
+      - *CoffeeScript
+      - *BackboneJs
+      - *CSharp
+      - *ASPNet
+      - *MSSQLServer
+      - *IIS
+      - *Ruby
+      - *Cucumber
+      - *WebDriver
+    description: |
+      I really enjoyed working at VersionOne; the team was well established and full of some of the
+      smartest and passionate people I've had the opportunity to work with. It is also where I fell
+      in love with pair-programming. I was joined as a full-stack developer, with a focus on UI
+      and Front-End development.
+
+      My biggest achievement, while at VersionOne, was being the Feature Lead of a team of 4
+      developers on a high-profile, well-received [feature](https://www.versionone.com/product/agile-team-software/)
+      of the flag-ship application. During the last year at VersionOne, I was tapped to be a Team
+      Lead, one of only three on the development team at the time. I helped guide, mentor, and
+      support the other devs and designers on my team and coordinate with the other teams and Product
+      Owners.
+
+  - company: Clearwave
+    url:     http://www.clearwaveinc.com/
+    title:   ScrumMaster / Team Lead
+    from:    '2009-08'
+    to:      '2011-09'
+    technologies:
+      - *JavaScript
+      - *jQuery
+      - *CSS
+      - *CSharp
+      - *ASPNet
+      - *MSSQLServer
+      - *Ruby
+      - *Cucumber
+      - *WebDriver
+    description: |
+      While initially hired as a technical test developer; I was quickly conscripted on to the
+      development team where I helped mentor the team in C#, ASP.NET MVC, CSS, and JavaScript/jQuery
+      as a Front-End Developer. Over the course of two years, I was helped establish best-design
+      practices for the development team. I continued to work closely with both the business
+      analysts and development teams to plan, architect, build and maintain the BDD test suite. Finally,
+      I served as team ScrumMaster until my departure.
+
+  - company: Bluechip Athletic Solutions
+    url:     http://www.bas-llc.net/
+    title:   ActionScript Consultant
+    from:    '2011-06'
+    to:      '2012-06'
+    technologies:
+      - *ActionScript
+      - { name: AGAL }
+      - { name: Flash }
+    description: |
+      The work done while consulting for BAS was some of the *most interesting* work I've gotten
+      to do. They needed a library of reusable custom UI-framework components, the most ambitious of which
+      was a custom mobile/desktop ready real-time 3D panoramic viewer in Flash.
+      I had to dust off several math textbooks from college and refresh my working memory of
+      vector and matrix math, but it was great fun to implement a 3D renderer from almost first
+      principals. A lot more work went into optimizing performance and building an API and
+      documentation for RAD consumption by graphic designers and other junior developers.
+
+  - company: FourSpots
+    title:   Web Application Developer
+    from:    '2008-02'
+    to:      '2009-06'
+    technologies:
+      - *Ruby
+      - *Rails
+      - *MySQL
+      - *ActionScript
+      - *Flex
+    description: |
+      FourSpots was an ambitious self-service advertising platform and market-place start-up, where I helped
+      implement and hack together back-end and front-end services. Created API interfaces for custom
+      video editing and rendering services on top of FFMPEG and Avisynth, as well as custom
+      SWF packing for ad distribution.
+
+teaching:
+  - organization: CoderDojo Ponce Springs
+    title:        Volunteer Mentor
+    from:         '2013-05'
+    to:           '2014-08'
+    notes: |
+      I had a *ton* of fun mentoring at the CoderDojo. The effort was spearheaded by a co-worker and
+      we had buy&#x2011;in/support from our employer. With a half-dozen mentors and teachers, we had
+      classes and self-directed sessions for dozens of children between the ages of 10 and 17.
+      The environment could be chaotic and challenging at times, but the reward was helping expose
+      the truly curious to fundamentals of technology and programming.
+
+  - organization: ITT Technical Institute
+    title:        Adjunct Instructor
+    from:         '2008-02'
+    to:           '2011-12'
+    notes: |
+      Leveraging my professional experience, in both the visual arts and software development, I
+      taught a range of classes in the department: from Graphic Design to Web Design to Game
+      Development. Teaching mostly after-work night-classes, the schedule was demanding but
+      rewarding. The experience was formative in my respect for the power of education and its value
+      in both academic and professional environments.
+
+education:
+  - school:   Art Institute of Atlanta
+    location: Atlanta, GA
+    program:  BFA Media Arts and Animation
+    from:     '2000-07'
+    to:       '2004-04'
+    notes: |
+      My college experience helped solidify my interest in the intersection between visual arts and
+      code. Classes like Color Theory, Typography and Life Drawing have made an unexpected impact
+      during my professional career. And the 3D Modeling and Animation classes were my first exposure
+      to the confluence art and mathematics. During my senior year, I was the teaching assistant for
+      most of the 3D Modeling and Animation classes; my first foray into teaching and education.
+
