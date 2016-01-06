@@ -1,14 +1,16 @@
 name: James Holmes
 
 summary: |
-  I am a *full-stack* programmer.
+  I am a *full-stack* developer.
 
-  I craft compelling interactions between people and machines and bring a diverse background of
-  technologies, experiences and passions. I want to help create the tools and applications that will
-  empower the next generation to work, play, communicate, and&mdash;most importantly&mdash;*build*.
+  I craft compelling interactions between people and machines and bring a
+  diverse background of technologies, experiences and passions. I want to help
+  build the tools and applications that will empower people to work, play,
+  and&mdash;most importantly&mdash;*create*.
 
-  If you share my love for programming&mdash;whether a fellow developer, a potential
-  employer or client, or just someone who wants to learn&mdash;I would love to hear from you!
+  If you share my love of programming&mdash;whether a fellow developer, a
+  potential employer, a client, or just someone who wants to learn&mdash;then
+  get in touch; I'd love to hear from you!
 
 links:
   email:         mailto:jh@refactorman.com
@@ -166,12 +168,14 @@ workExperience:
       - *Postgres
       - *Redis
     description: |
-      Leads To Conversations is a sales acceleration app start-up, founded by a pair previous
-      co-workers. I joined the team as the second developer&mdash;third employee&mdash;as a UI
-      generalist. My skill-set directly complements the skills of the technical founder; we worked
-      closely to define, architect and build the pilot system. Being a small cross-functional team,
-      responsibilities ranged from full-stack pair development, to database design,
-      to devops, to graphic/web design, to marketing, to motion graphics and more!
+      Leads To Conversations is a sales acceleration app start-up, founded by a
+      pair previous co-workers. I joined the team as the second
+      developer&mdash;third employee&mdash;brining my skills as a UI specialist.
+      My skill-set directly complemented the technical founder and we worked
+      closely to define, architect and build the pilot system. My
+      responsibilities ranged from full-stack pair development to database
+      design to devops to graphic/web design to marketing to motion graphics;
+      small teams wear many hats.
 
   - company: Skyward.io
     url:     http://skyward.io/
@@ -188,11 +192,13 @@ workExperience:
       - *Spring
       - *OrientDB
     description: |
-      As the lead front-end developer, I worked closely with the lead designer to realize and
-      iterate on the UI/UX of the application: a UAV flight planning, logging, and compliance SAAS.
-      I took a deep-dive into Angular.js and established the initial testing and build pipeline. Helped
-      mentor junior developers within the front-end stack, and helped expose and transition
-      the team to more functional programming paradigms available in Java 8.
+      As the lead front-end developer, I worked closely with the lead designer
+      to realize and iterate the UI/UX of the application: a UAV flight
+      planning, logging, and compliance SAAS. Built on Angular.js, I implemented
+      the frond-end on-top of the Java backend. Worked dilligently to establish
+      the automated testing and build pipelines. Helped mentor junior developers
+      within the front-end stack, and helped expose and transition the team
+      towards more functional programming paradigms available in Java 8.
 
   - company: VersionOne
     url:     https://www.versionone.com/
@@ -212,17 +218,19 @@ workExperience:
       - *Cucumber
       - *WebDriver
     description: |
-      I really enjoyed working at VersionOne; the team was well established and full of some of the
-      smartest and passionate people I've had the opportunity to work with. It is also where I fell
-      in love with pair-programming. I was joined as a full-stack developer, with a focus on UI
-      and Front-End development.
+      I greatly enjoyed working at VersionOne; the team was well established and
+      full of some of the smartest and passionate people I've had the
+      opportunity to work with. It is where I fell in love with
+      pair-programming. I joined the team as a full-stack developer; focusing on
+      improving UI and the state of the front-end stack.
 
-      My biggest achievement, while at VersionOne, was being the Feature Lead of a team of 4
-      developers on a high-profile, well-received [feature](https://www.versionone.com/product/agile-team-software/)
-      of the flag-ship application. During the last year at VersionOne, I was tapped to be a Team
-      Lead, one of only three on the development team at the time. I helped guide, mentor, and
-      support the other devs and designers on my team and coordinate with the other teams and Product
-      Owners.
+      While at VersionOne, was the Feature Lead, of a team of 4 developers, on a
+      high-profile, well-received [feature](https://www.versionone.com/product/agile-team-software/)
+      of the flagship application. During my last year at VersionOne, I was
+      tapped to be a Team Lead, one of only three on the development team. In
+      that role, I helped guide, mentor, and support the devs and designers on
+      my team and coordinate with the other teams and Product Owners to deliver
+      high-quality features and releases.
 
   - company: Clearwave
     url:     http://www.clearwaveinc.com/
@@ -240,12 +248,15 @@ workExperience:
       - *Cucumber
       - *WebDriver
     description: |
-      While initially hired as a technical test developer; I was quickly conscripted on to the
-      development team where I helped mentor the team in C#, ASP.NET MVC, CSS, and JavaScript/jQuery
-      as a Front-End Developer. Over the course of two years, I was helped establish best-design
-      practices for the development team. I continued to work closely with both the business
-      analysts and development teams to plan, architect, build and maintain the BDD test suite. Finally,
-      I served as team ScrumMaster until my departure.
+      While initially hired as a technical test developer; I was quickly
+      conscripted on to the development team where I helped mentor the team in
+      ASP.NET MVC, CSS, and JavaScript/jQuery best practices. As a Front-End
+      Developer, over the course of two years, I was helped establish
+      design frameworks and tools for the rest of the development team. I
+      continued to work closely with both the business analysts and development
+      teams to plan, architect, build and maintain the BDD test suite. Finally,
+      I served as team ScrumMaster until my departure, assisting in the
+      on-going effort to move to a more agile work paradigm.
 
   - company: Bluechip Athletic Solutions
     url:     http://www.bas-llc.net/
@@ -257,13 +268,15 @@ workExperience:
       - { name: AGAL }
       - { name: Flash }
     description: |
-      The work done while consulting for BAS was some of the *most interesting* work I've gotten
-      to do. They needed a library of reusable custom UI-framework components, the most ambitious of which
-      was a custom mobile/desktop ready real-time 3D panoramic viewer in Flash.
-      I had to dust off several math textbooks from college and refresh my working memory of
-      vector and matrix math, but it was great fun to implement a 3D renderer from almost first
-      principals. A lot more work went into optimizing performance and building an API and
-      documentation for RAD consumption by graphic designers and other junior developers.
+      The work I did while consulting for BAS was some of the *most interesting*
+      work I've gotten to do professionally. They needed a library of reusable
+      custom UI-framework components. The most ambitious of which was a custom
+      mobile/desktop ready real-time 3D panoramic viewer compoment in Flash/AS3.
+      I had to dust off several math textbooks from college and refresh my
+      working memory of vector and matrix math. However, it was great fun to
+      implement a 3D renderer from almost first principals. A lot more work went
+      into optimizing performance and building an API and documentation for RAD
+      consumption by graphic designers and other junior developers on their team.
 
   - company: FourSpots
     title:   Web Application Developer
@@ -276,10 +289,11 @@ workExperience:
       - *ActionScript
       - *Flex
     description: |
-      FourSpots was an ambitious self-service advertising platform and market-place start-up, where I helped
-      implement and hack together back-end and front-end services. Created API interfaces for custom
-      video editing and rendering services on top of FFMPEG and Avisynth, as well as custom
-      SWF packing for ad distribution.
+      FourSpots was an ambitious self-service advertising platform and
+      market-place start-up, where I helped implement front-end design and hack
+      together back-end. I created API interfaces for custom video editing and
+      rendering services on top of FFMPEG and Avisynth, as well as custom
+      SWF packing for advertisment distribution.
 
 teaching:
   - organization: CoderDojo Ponce Springs
@@ -287,22 +301,26 @@ teaching:
     from:         '2013-05'
     to:           '2014-08'
     notes: |
-      I had a *ton* of fun mentoring at the CoderDojo. The effort was spearheaded by a co-worker and
-      we had buy&#x2011;in/support from our employer. With a half-dozen mentors and teachers, we had
-      classes and self-directed sessions for dozens of children between the ages of 10 and 17.
-      The environment could be chaotic and challenging at times, but the reward was helping expose
-      the truly curious to fundamentals of technology and programming.
+      I had a *ton* of fun mentoring at the CoderDojo. The effort was
+      spearheaded by a fellow co-worker. Hacing buy&#x2011;in/support from our
+      employer, we had access to hardware an facilities to build our curriculum.
+      With a half-dozen volunteer mentors and teachers, we had classes and
+      self-directed sessions for dozens of children between the ages of 10 and
+      17. The environment could be chaotic and challenging, but the reward was
+      helping expose the next generation to fundamentals of technology and
+      programming.
 
   - organization: ITT Technical Institute
     title:        Adjunct Instructor
     from:         '2008-02'
     to:           '2011-12'
     notes: |
-      Leveraging my professional experience, in both the visual arts and software development, I
-      taught a range of classes in the department: from Graphic Design to Web Design to Game
-      Development. Teaching mostly after-work night-classes, the schedule was demanding but
-      rewarding. The experience was formative in my respect for the power of education and its value
-      in both academic and professional environments.
+      Leveraging my professional experience, in both the visual arts and
+      software development, I taught a range of classes in the department: from
+      Graphic Design to Web Design to Game Development. Teaching mostly
+      after-work night-classes, the schedule was demanding but rewarding. The
+      experience was formative in my respect for the power of learning and its
+      value in both academic and professional environments.
 
 education:
   - school:   Art Institute of Atlanta
@@ -311,9 +329,10 @@ education:
     from:     '2000-07'
     to:       '2004-04'
     notes: |
-      My college experience helped solidify my interest in the intersection between visual arts and
-      code. Classes like Color Theory, Typography and Life Drawing have made an unexpected impact
-      during my professional career. And the 3D Modeling and Animation classes were my first exposure
-      to the confluence art and mathematics. During my senior year, I was the teaching assistant for
-      most of the 3D Modeling and Animation classes; my first foray into teaching and education.
-
+      My college experience helped solidify my interest in the intersection
+      between visual arts and code. Classes like Color Theory, Typography and
+      Life Drawing have made an unexpected impact during my professional career.
+      And the 3D Modeling and Animation classes were my first exposure to the
+      confluence art and mathematics. During my senior year, I was the teaching
+      assistant for most of the 3D Modeling and Animation classes; my first
+      foray into teaching and education.
