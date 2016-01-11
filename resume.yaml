@@ -1,7 +1,7 @@
 name: James Holmes
 
 summary: |
-  I am a *full-stack* developer.
+  I am a **full-stack** developer, with a particular knack for front end work.
 
   I craft compelling interactions between people and machines and bring a
   diverse background of technologies, experiences and passions. I want to help
@@ -154,7 +154,7 @@ workExperience:
 
   - company: Leads To Conversations
     url:     http://leadstoconversations.com
-    title:   Desingineer
+    title:   Designgineer
     from:    '2015-05'
     to:      '2015-11'
     technologies:
@@ -170,12 +170,12 @@ workExperience:
     description: |
       Leads To Conversations is a sales acceleration app start-up, founded by a
       pair previous co-workers. I joined the team as the second
-      developer&mdash;third employee&mdash;brining my skills as a UI specialist.
+      developer&mdash;third employee&mdash;bringing my skills as a UI specialist to the team.
       My skill-set directly complemented the technical founder and we worked
       closely to define, architect and build the pilot system. My
       responsibilities ranged from full-stack pair development to database
       design to devops to graphic/web design to marketing to motion graphics;
-      small teams wear many hats.
+      members of small teams wear many hats.
 
   - company: Skyward.io
     url:     http://skyward.io/
@@ -219,12 +219,12 @@ workExperience:
       - *WebDriver
     description: |
       I greatly enjoyed working at VersionOne; the team was well established and
-      full of some of the smartest and passionate people I've had the
+      full of some of the smartest and most passionate people I've had the
       opportunity to work with. It is where I fell in love with
       pair-programming. I joined the team as a full-stack developer; focusing on
       improving UI and the state of the front-end stack.
 
-      While at VersionOne, was the Feature Lead, of a team of 4 developers, on a
+      While at VersionOne, I was the Feature Lead of a team of 4 developers on a
       high-profile, well-received [feature](https://www.versionone.com/product/agile-team-software/)
       of the flagship application. During my last year at VersionOne, I was
       tapped to be a Team Lead, one of only three on the development team. In
@@ -302,8 +302,8 @@ teaching:
     to:           '2014-08'
     notes: |
       I had a *ton* of fun mentoring at the CoderDojo. The effort was
-      spearheaded by a fellow co-worker. Hacing buy&#x2011;in/support from our
-      employer, we had access to hardware an facilities to build our curriculum.
+      spearheaded by a fellow co-worker. Having buy&#x2011;in/support from our
+      employer, we had access to both hardware and facilities to build our curriculum.
       With a half-dozen volunteer mentors and teachers, we had classes and
       self-directed sessions for dozens of children between the ages of 10 and
       17. The environment could be chaotic and challenging, but the reward was
